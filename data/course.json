@@ -1,0 +1,82 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Energy",
+      "Combustion"
+    ],
+    [
+      "Energy",
+      "Electricity"
+    ],
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Energy",
+      "Fuel Cells"
+    ],
+    [
+      "Energy",
+      "Hydrogen and Alternatives"
+    ],
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Energy",
+      "Renewables"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Science",
+      "Physics"
+    ]
+  ],
+  "legacy_uid": "a36204d0-4d4f-acda-a50a-ab504b7391a4",
+  "instructors": {
+    "content": [
+      "8554125c-fb24-4eff-2b9d-384e3b645d0d",
+      "d05a8ae7-0f03-b66b-040d-e22b38f1c240"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1fdc422e-81a1-b4aa-d13f-b6657648ad25",
+    "website": "8-21-the-physics-of-energy-fall-2009"
+  },
+  "course_title": "The Physics of Energy",
+  "course_description": "This course is designed to give you the scientific understanding you need to answer questions like:\n\n*   How much energy can we really get from wind?\n*   How does a solar photovoltaic work?\n*   What is an OTEC (Ocean Thermal Energy Converter) and how does it work?\n*   What is the physics behind global warming?\n*   What makes engines efficient?\n*   How does a nuclear reactor work, and what are the realistic hazards?\n\nThe course is designed for MIT sophomores, juniors, and seniors who want to understand the fundamental laws and physical processes that govern the sources, extraction, transmission, storage, degradation, and end uses of energy.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.21",
+  "course_image_thumbnail": {
+    "content": "2454ba50-41b6-4b28-96bd-a6c19715da32",
+    "website": "8-21-the-physics-of-energy-fall-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "13848e63-9ae7-4af0-89d1-584f465e9314",
+  "site_short_id": "8.21-fall-2009",
+  "title": "Course Metadata"
+}
